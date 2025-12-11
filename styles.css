@@ -1,0 +1,12 @@
+.background-container {
+    background-image:url('background.jpeg'); 
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: white; 
+    font-size: 2rem;
+    font-weight: bold;
+    align-items: center;  
+    padding: 0px;
+    margin: 0px;
+}
